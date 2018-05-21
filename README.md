@@ -6,5 +6,3 @@
 * [02-adding-items](https://github.com/react-u/19-custom-select-box/tree/02-adding-items)
 * [03-toggling-dropdown](https://github.com/react-u/19-custom-select-box/tree/03-toggling-dropdown)
 * [04-selected-item](https://github.com/react-u/19-custom-select-box/tree/04-selected-item)
-
-
